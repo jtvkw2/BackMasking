@@ -1,0 +1,23 @@
+Jacob Voyles
+HW14 - BackMasking
+Level: Challenge
+
+1. I started with trying different ways to write the dat files into an array and then worked from there.
+
+2. The command line implementation I feel could handle the arguments given in a better manner
+
+3. I found no issues in my test cases, I had some issue with writing to a dat file, but adding a method to create a file
+   worked well.
+
+4. The most important thing that I learned from this assignment was how to implement the same outputs with information from
+   the user on how it is going to be done.
+
+5. Next time I would work more on my handling of command line arguments.
+
+Sample1 - To infinity and beyond
+
+Sample 2 - Pay no attention to that man behind the curtain
+
+Sample 3 - What we've got here is a failure to communicate
+
+Mystery - platu merrado nikto
